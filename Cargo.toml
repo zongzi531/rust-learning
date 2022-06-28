@@ -7,3 +7,4 @@ default-run= "rust-learning"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
+utf8_slice = "1.0.0"
