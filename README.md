@@ -10,3 +10,5 @@
 - [`ownership-borrowing-{1-11}`](https://zh.practice.rs/ownership/borrowing.html)
 - [`compound-types-string-{1-12}`](https://zh.practice.rs/compound-types/string.html)
 - [`compound-types-array-{1-6}`](https://zh.practice.rs/compound-types/array.html)
+- [`compound-types-slice-{1-6}`](https://zh.practice.rs/compound-types/slice.html)
+- [`compound-types-tuple-{1-6}`](https://zh.practice.rs/compound-types/tuple.html)
