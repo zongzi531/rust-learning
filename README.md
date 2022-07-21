@@ -15,3 +15,4 @@
 - [`compound-types-struct-{1-8}`](https://zh.practice.rs/compound-types/struct.html)
 - [`compound-types-enum-{1-6}`](https://zh.practice.rs/compound-types/enum.html)
 - [`flow-control-{1-11}`](https://zh.practice.rs/flow-control.html)
+- [`pattern-match-match-iflet-{1-9}`](https://zh.practice.rs/pattern-match/match-iflet.html)
