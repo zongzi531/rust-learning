@@ -22,3 +22,4 @@
 - [`generics-traits-const-generics-{1-3}`](https://zh.practice.rs/generics-traits/const-generics.html)
 - [`generics-traits-traits-{1-9}`](https://zh.practice.rs/generics-traits/traits.html)
 - [`generics-traits-trait-object-{1-5}`](https://zh.practice.rs/generics-traits/trait-object.html)
+- [`generics-traits-advanced-traits-{1-5}`](https://zh.practice.rs/generics-traits/advanced-traits.html)
