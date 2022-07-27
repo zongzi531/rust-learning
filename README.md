@@ -23,3 +23,4 @@
 - [`generics-traits-traits-{1-9}`](https://zh.practice.rs/generics-traits/traits.html)
 - [`generics-traits-trait-object-{1-5}`](https://zh.practice.rs/generics-traits/trait-object.html)
 - [`generics-traits-advanced-traits-{1-5}`](https://zh.practice.rs/generics-traits/advanced-traits.html)
+- [`collections-String-{1-7}`](https://zh.practice.rs/collections/String.html)
