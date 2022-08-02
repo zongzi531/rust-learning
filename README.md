@@ -26,3 +26,6 @@
 - [`collections-String-{1-7}`](https://zh.practice.rs/collections/String.html)
 - [`collections-vector-{1-8}`](https://zh.practice.rs/collections/vector.html)
 - [`collections-hashmap-{1-5}`](https://zh.practice.rs/collections/hashmap.html)
+- [`type-conversions-as-{1-5}`](https://zh.practice.rs/type-conversions/as.html)
+- [`type-conversions-from-into-{1-5}`](https://zh.practice.rs/type-conversions/from-into.html)
+- [`type-conversions-others-{1-5}`](https://zh.practice.rs/type-conversions/others.html)
