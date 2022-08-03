@@ -29,3 +29,5 @@
 - [`type-conversions-as-{1-5}`](https://zh.practice.rs/type-conversions/as.html)
 - [`type-conversions-from-into-{1-5}`](https://zh.practice.rs/type-conversions/from-into.html)
 - [`type-conversions-others-{1-5}`](https://zh.practice.rs/type-conversions/others.html)
+- [`result-panic-panic-{1-2}`](https://zh.practice.rs/result-panic/panic.html)
+- [`result-panic-result-{1-6}`](https://zh.practice.rs/result-panic/result.html)
