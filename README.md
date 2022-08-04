@@ -31,3 +31,44 @@
 - [`type-conversions-others-{1-5}`](https://zh.practice.rs/type-conversions/others.html)
 - [`result-panic-panic-{1-2}`](https://zh.practice.rs/result-panic/panic.html)
 - [`result-panic-result-{1-6}`](https://zh.practice.rs/result-panic/result.html)
+- [`crate-module-crate-{1-6}`](https://zh.practice.rs/crate-module/crate.html)
+  1. `cargo new hello-package`
+  2. `cargo new --lib hello-package1`
+  3. 包名不同，包根位置不同，分别是 `hello-package`, `hello-package1` 和 `src/main.rs`, `src/lib.rs`
+  4. `hello-package1`
+  5.
+    ```bash
+    # FILL in the blanks
+    .
+    ├── Cargo.lock
+    ├── Cargo.toml
+    ├── src
+    │   ├── main.rs
+    │   └── lib.rs
+    ```
+  6.
+  ```bash
+  # Create a package which contains 
+  # 1. three binary crates: `hello-package`, `main1` and `main2`
+  # 2. one library crate
+  # describe the directory tree below
+  .
+  ├── Cargo.toml
+  ├── Cargo.lock
+  ├── src
+  │   ├── main.rs
+  │   ├── lib.rs
+  │   └── bin
+  │       └── main1.rs
+  │       └── main2.rs
+  ├── tests # directory for integrated tests files
+  │   └── some_integration_tests.rs
+  ├── benches # dir for benchmark files
+  │   └── simple_bench.rs
+  └── examples # dir for example files
+      └── simple_example.rs
+  ```
+- [`crate-module-module-{1-5}`](https://zh.practice.rs/crate-module/module.html)
+  1-5: practice/crate-module/hello-package
+- [`crate-module-use-pub-{1-3}`](https://zh.practice.rs/crate-module/use-pub.html)
+
