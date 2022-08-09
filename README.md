@@ -73,3 +73,4 @@
 - [`crate-module-use-pub-{1-3}`](https://zh.practice.rs/crate-module/use-pub.html)
 - [`comments-docs-{1-4}`](https://zh.practice.rs/comments-docs.html)
 - [`formatted-output-{1-9}`](https://zh.practice.rs/formatted-output.html)
+- [`lifetime-basic-{1-10}`](https://zh.practice.rs/lifetime/basic.html)
