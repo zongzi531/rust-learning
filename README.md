@@ -74,3 +74,4 @@
 - [`comments-docs-{1-4}`](https://zh.practice.rs/comments-docs.html)
 - [`formatted-output-{1-9}`](https://zh.practice.rs/formatted-output.html)
 - [`lifetime-basic-{1-10}`](https://zh.practice.rs/lifetime/basic.html)
+- [`lifetime-static-{1-6}`](https://zh.practice.rs/lifetime/static.html)
