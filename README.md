@@ -75,3 +75,4 @@
 - [`formatted-output-{1-9}`](https://zh.practice.rs/formatted-output.html)
 - [`lifetime-basic-{1-10}`](https://zh.practice.rs/lifetime/basic.html)
 - [`lifetime-static-{1-6}`](https://zh.practice.rs/lifetime/static.html)
+- [`lifetime-advance-{1-6}`](https://zh.practice.rs/lifetime/advance.html)
